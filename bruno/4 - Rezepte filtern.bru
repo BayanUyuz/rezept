@@ -1,0 +1,15 @@
+meta {
+  name: Rezepte filtern (maxMinuten)
+  type: http
+  seq: 4
+}
+
+get {
+  url: http://localhost:3000/recipes?maxMinuten=20
+  body: none
+  auth: none
+}
+
+params:query {
+  maxMinuten: 20
+}

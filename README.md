@@ -32,6 +32,13 @@ npm run typecheck
 
 ---
 
+## Bruno Collection
+
+Die vorgefertigten API-Requests befinden sich im Ordner `bruno/`.
+In Bruno einfach auf **Open Collection** klicken und den Ordner `bruno/` des Projekts öffnen.
+
+---
+
 ## Endpunkte
 
 | Methode | Pfad | Beschreibung | Auth nötig? |
